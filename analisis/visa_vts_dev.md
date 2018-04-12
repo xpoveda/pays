@@ -11,18 +11,20 @@ REST con XML
 
 Generación de tablas a partir de excel en markdown con `https://www.tablesgenerator.com/markdown_tables`
 
-| VISA TO GEMALTO                     |                                                                |
-|-------------------------------------|----------------------------------------------------------------|
+**VISA TO GEMALTO**
+
 | Servicio                            | Descripcion                                                    |
+|-------------------------------------|----------------------------------------------------------------|
 | CheckEligibility                    | Autentificacion consumidor                                     |
 | Get Cardholder verification methods | Identificacion por email o sms para verificacion OTP posterior |
 | Send Passcode                       | Verificacion OTP                                               |
 | Card Metadata update notificacion   | Modificacion de datos de tarjeta                               |
 
 
-| GEMALTO TO VISA               |                                                                                              |
-|-------------------------------|----------------------------------------------------------------------------------------------|
+**GEMALTO TO VISA**
+
 | Servicio                      | Descripcion                                                                                  |
+|-------------------------------|----------------------------------------------------------------------------------------------|
 | Submit lifecycle command      | Activar, bloquear, desbloquear o borrar un token. Tambien actualizar PAN   y fecha caducidad |
 | Token Inquiry                 | Lista de todos los tokens y su detalle de un cierto PAN                                      |
 | Update Card Metadata          | Actualizar metadatos de los tokens aprovisionados en el dispositivo                          |
