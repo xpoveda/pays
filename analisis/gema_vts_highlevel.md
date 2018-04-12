@@ -1,5 +1,5 @@
-Issuer TSP VTS Connector, high level design
-============================================
+Gemalto <--> Issuer TSP VTS Connector, high level design
+========================================================
 `[GEMALTO] Issuer TSP VTS Connector HLD-v1 0 3.docx`, v1.0.3, Enero 2017
 
 ```
