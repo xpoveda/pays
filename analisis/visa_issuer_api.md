@@ -1,5 +1,5 @@
-Issuer API specifications
-=========================
+VISA <--> Issuer API specifications
+====================================
 `VTS_Issuer_API_Specifications_2 2_JSON.pdf`, v2.2, 26 de Julio de 2017
 
 ```
