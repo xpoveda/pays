@@ -15,6 +15,7 @@ Diseño interno de los casos de uso con diagramas de actividad
 Index
 -----
 3. HIGH LEVEL ARCHITECTURE
+
 4. USE CASES
 	- ISSTSP_00 ISSUER ON BOARDING	
 		- KEY CEREMONY	
@@ -46,6 +47,7 @@ Index
 		- CONNECTION FROM GTO TO VTS
 		- JWE/JWS
 		- KEY CEREMONY
+		
 5. INTERNAL
 	- ARCHITECTURE OVERVIEW
 	- ISSTSP_01 CARD DIGITIZATION - DESIGN
