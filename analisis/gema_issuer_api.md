@@ -1,5 +1,5 @@
-Issuer frontend API
-===================
+Gemalto <--> Issuer frontend API
+================================
 `[GEMALTO] Issuer Frontend API-1 4 6.docx` (v1.4.6, 31 de Marzo de 2017)
 
 ```
